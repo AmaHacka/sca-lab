@@ -1,0 +1,5 @@
+hosts:
+  - name: web-1
+    address: 10.0.0.11
+  - name: db-1
+    address: 10.0.0.21

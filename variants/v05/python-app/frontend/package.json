@@ -1,0 +1,9 @@
+{
+  "name": "tracker-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "0.21.0",
+    "moment": "2.29.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "avatars-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "3.4.1",
+    "bootstrap": "3.4.1"
+  }
+}
